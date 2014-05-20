@@ -1,0 +1,7 @@
+body.front #zone-content .tabs, body.front #zone-content .block-system-main {
+  display: none;
+}
+
+body.front #zone-content-wrapper {
+  background-color: grey;
+}
