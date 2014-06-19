@@ -6,12 +6,12 @@ body.front #zone-content-wrapper {
   background-color: grey;
 }
 
-body.front .clearfix .foot1{
+.foot1{
   font-size:10px;
   color:white;
 }
 
-body.front .clearfix .foot1 .foot-menu{
+.foot1 .foot-menu{
    color:white;
 }
 
